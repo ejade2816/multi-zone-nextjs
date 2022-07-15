@@ -7,11 +7,7 @@ function Header() {
         <a>
           <div className="post">
             <h2>Post 1</h2>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s
-            </p>
+            <p>123</p>
           </div>
         </a>
       </Link>
@@ -19,11 +15,7 @@ function Header() {
         <a>
           <div className="post">
             <h2>Post 2</h2>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s
-            </p>
+            <p>123</p>
           </div>
         </a>
       </Link>
